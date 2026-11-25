@@ -19,7 +19,8 @@ I build small tools I want to use and websites for exploring AI and art.
     <img src="assets/2025-ai-report.svg" width="100%" alt="2025 AI Report">
   </a><br>
   按月份回看 2025 年的 AI 大事、新模型和产品发布。<br>
-  A month-by-month look at the AI launches and milestones that shaped 2025.
+  A month-by-month look at the AI launches and milestones that shaped 2025.<br>
+  <a href="https://b3inside.github.io/aireport2025/">在线演示 · Live demo</a>
 </p>
 
 <p>
