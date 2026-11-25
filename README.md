@@ -27,5 +27,6 @@ I build small tools I want to use and websites for exploring AI and art.
     <img src="assets/daily-met-muse.svg" width="100%" alt="Daily Met Muse">
   </a><br>
   每天看十件大都会艺术博物馆的藏品，也可以按日历回看。<br>
-  Discover ten works from The Met each day and revisit past selections by date.
+  Discover ten works from The Met each day and revisit past selections by date.<br>
+  <a href="https://b3inside.github.io/daily-met-muse/">在线演示 · Live demo</a>
 </p>
