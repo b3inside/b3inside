@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 108" width="760" height="108" role="img" aria-labelledby="title desc">
+  <title id="title">2025 AI Report</title>
+  <desc id="desc">Twelve ticks trace the months of the 2025 AI Report.</desc>
+  <style>
+    :root { --paper: #f6f1e5; --ink: #292822; --line: #dbd2be; --accent: #8b5525; }
+    @media (prefers-color-scheme: dark) {
+      :root { --paper: #2b2822; --ink: #f7edd8; --line: #514939; --accent: #e0b579; }
+    }
+    .title { font: 39px Georgia, "Times New Roman", serif; fill: var(--ink); }
+    
+    .marker { animation: follow-year 3.2s cubic-bezier(.3,.03,.25,1) both; }
+    @keyframes follow-year { from { transform: translateX(-231px); } to { transform: none; } }
+    
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="759" height="107" rx="8" fill="var(--paper)" stroke="var(--line)"/>
+  <text class="title" x="30" y="67">2025 AI Report</text>
+  <g fill="none" stroke="var(--accent)" stroke-opacity=".55">
+    <path d="M447 49.5H678"/>
+    <path d="M447 50v13"/><path d="M468 50v8"/><path d="M489 50v8"/><path d="M510 50v8"/><path d="M531 50v8"/><path d="M552 50v8"/><path d="M573 50v8"/><path d="M594 50v8"/><path d="M615 50v8"/><path d="M636 50v8"/><path d="M657 50v8"/><path d="M678 50v13"/>
+  </g>
+  <g class="marker">
+    <circle cx="678" cy="49.5" r="7" fill="var(--accent)"/>
+    <circle cx="678" cy="49.5" r="2" fill="var(--paper)"/>
+  </g>
+  <g fill="var(--ink)" font-family="Menlo, Consolas, monospace" font-size="13" letter-spacing="1">
+    <text x="447" y="80" text-anchor="middle">JAN</text>
+    <text x="678" y="80" text-anchor="middle">DEC</text>
+  </g>
+  <path d="M715 54h17m-6-6 6 6-6 6" fill="none" stroke="var(--ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
