@@ -10,7 +10,8 @@ I build small tools I want to use and websites for exploring AI and art.
     <img src="assets/codpresso.svg" width="100%" alt="Codpresso">
   </a><br>
   在 macOS 菜单栏里，用一杯咖啡显示 Codex 剩余额度。<br>
-  A cup of espresso in your Mac menu bar shows how much Codex usage you have left.
+  A cup of espresso in your Mac menu bar shows how much Codex usage you have left.<br>
+  <a href="https://github.com/b3inside/Codpresso/releases/latest">下载 · Download (Apple Silicon)</a>
 </p>
 
 <p>
